@@ -1,25 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.ac006af6.css",
-    "main.js": "/static/js/main.39570410.js",
-    "static/media/work8.gif": "/static/media/work8.8e17b031041bfc27832e.gif",
+    "main.css": "/static/css/main.bb3ac99c.css",
+    "main.js": "/static/js/main.68d912a7.js",
+    "static/media/Play_catching.gif": "/static/media/Play_catching.b6248e71254fa321dadd.gif",
+    "static/media/header1.png": "/static/media/header1.b21897b280bdc8f8cced.png",
+    "static/media/thumbnail_square.gif": "/static/media/thumbnail_square.52a587932d2d8ee6d0ad.gif",
     "static/media/Play_loop.gif": "/static/media/Play_loop.244f927e686d27e16d2c.gif",
-    "static/media/work0.png": "/static/media/work0.44ad6bad6a4bee787953.png",
-    "static/media/work3.png": "/static/media/work3.f0a4eb09e7b29b799a84.png",
-    "static/media/Sisi_Head_Woo.png": "/static/media/Sisi_Head_Woo.d27187fe1ae610e1f05a.png",
-    "static/media/work6.png": "/static/media/work6.79b971beea162dc0d4db.png",
+    "static/media/header2.png": "/static/media/header2.ba230e2d4628ec5c8e4a.png",
+    "static/media/Play_ready.gif": "/static/media/Play_ready.e1c5380761edd117edfd.gif",
+    "static/media/thumbnail_square.png": "/static/media/thumbnail_square.55f8896399084f372a5e.png",
     "static/media/ReelBoard.png": "/static/media/ReelBoard.a27daa967da07abe0b50.png",
-    "static/media/work4.gif": "/static/media/work4.52a587932d2d8ee6d0ad.gif",
-    "static/media/work7.png": "/static/media/work7.138cde766bad3951e1ad.png",
-    "static/media/work5.png": "/static/media/work5.cda0aac4731b073e172b.png",
-    "static/media/work1.png": "/static/media/work1.db37f9473fd989903485.png",
-    "static/media/work2.png": "/static/media/work2.55f8896399084f372a5e.png",
+    "static/media/Sisi_Head_Woo.png": "/static/media/Sisi_Head_Woo.fad1fcd10fd7eef58dae.png",
+    "static/media/mixkit-forest-with-birds-and-insect-flying-hum-1223.mp3": "/static/media/mixkit-forest-with-birds-and-insect-flying-hum-1223.1c16745438cac9018b13.mp3",
     "static/media/Butterflies.gif": "/static/media/Butterflies.6f957cf1894122885de6.gif",
     "static/media/FooterLog.png": "/static/media/FooterLog.e646e4d11cd8961c5132.png",
+    "static/media/lockup.gif": "/static/media/lockup.f4a3d3dca3c2da78ba48.gif",
     "static/media/NavBar.png": "/static/media/NavBar.cf19e3c70c46e7af1ccc.png",
     "static/media/SISI_logo_Full_light.gif": "/static/media/SISI_logo_Full_light.f6b0c31a2e4c939cec69.gif",
-    "static/media/AyrBlufy-BlackRegular.otf": "/static/media/AyrBlufy-BlackRegular.aedd07154ac0481fd755.otf",
-    "static/media/SISI_logo_Full_pink.gif": "/static/media/SISI_logo_Full_pink.19ba88eeed5a65d4012e.gif",
+    "static/media/SISI_logo_Full_pink.gif": "/static/media/SISI_logo_Full_pink.1f0f426246e655b1420f.gif",
     "static/media/tape1.svg": "/static/media/tape1.9d495d0799cdcc1e82e7660385ac6a6b.svg",
     "static/media/tape0.svg": "/static/media/tape0.70cc6942fd59863c50578554a83a7d78.svg",
     "static/media/tape5.svg": "/static/media/tape5.70cc6942fd59863c50578554a83a7d78.svg",
@@ -30,11 +28,11 @@
     "static/media/tape2.svg": "/static/media/tape2.0cc6d7715ae5245260cb819703023c8b.svg",
     "static/media/tape6.svg": "/static/media/tape6.0cc6d7715ae5245260cb819703023c8b.svg",
     "index.html": "/index.html",
-    "main.ac006af6.css.map": "/static/css/main.ac006af6.css.map",
-    "main.39570410.js.map": "/static/js/main.39570410.js.map"
+    "main.bb3ac99c.css.map": "/static/css/main.bb3ac99c.css.map",
+    "main.68d912a7.js.map": "/static/js/main.68d912a7.js.map"
   },
   "entrypoints": [
-    "static/css/main.ac006af6.css",
-    "static/js/main.39570410.js"
+    "static/css/main.bb3ac99c.css",
+    "static/js/main.68d912a7.js"
   ]
 }
