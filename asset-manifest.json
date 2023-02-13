@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.aacf04a5.css",
-    "main.js": "/static/js/main.5c89beac.js",
+    "main.css": "/static/css/main.e473aecd.css",
+    "main.js": "/static/js/main.c0060dde.js",
     "static/media/023-B2S-Blog3-Assignment-Originality-Reports-SL-v1.gif": "/static/media/023-B2S-Blog3-Assignment-Originality-Reports-SL-v1.052fa7bf8f0402cff4b2.gif",
     "static/media/Play_catching.gif": "/static/media/Play_catching.b6248e71254fa321dadd.gif",
     "static/media/020-B2S-Blog2-Families-SL-v1.gif": "/static/media/020-B2S-Blog2-Families-SL-v1.4b0061f8b52d439c1e67.gif",
@@ -90,6 +90,7 @@
     "static/media/MB Office emojis-dribbble_1.png": "/static/media/MB Office emojis-dribbble_1.3bc702bde37342d9630f.png",
     "static/media/sticker2.png": "/static/media/sticker2.8c7f1a9fc4af8fac3136.png",
     "static/media/taped_banana_long.gif": "/static/media/taped_banana_long.e408561e3008d8e73456.gif",
+    "static/media/Debbie_Head.png": "/static/media/Debbie_Head.e5a02013e61ee2058b93.png",
     "static/media/thumbnail.gif": "/static/media/thumbnail.d142dbcf81fb0fde7a05.gif",
     "static/media/sticker1.png": "/static/media/sticker1.004241671e9afbc291ab.png",
     "static/media/sketch.png": "/static/media/sketch.95c5f59e3cb21469b96a.png",
@@ -120,11 +121,11 @@
     "static/media/tape2.svg": "/static/media/tape2.0cc6d7715ae5245260cb819703023c8b.svg",
     "static/media/tape6.svg": "/static/media/tape6.0cc6d7715ae5245260cb819703023c8b.svg",
     "index.html": "/index.html",
-    "main.aacf04a5.css.map": "/static/css/main.aacf04a5.css.map",
-    "main.5c89beac.js.map": "/static/js/main.5c89beac.js.map"
+    "main.e473aecd.css.map": "/static/css/main.e473aecd.css.map",
+    "main.c0060dde.js.map": "/static/js/main.c0060dde.js.map"
   },
   "entrypoints": [
-    "static/css/main.aacf04a5.css",
-    "static/js/main.5c89beac.js"
+    "static/css/main.e473aecd.css",
+    "static/js/main.c0060dde.js"
   ]
 }
